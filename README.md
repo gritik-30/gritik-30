@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gritik-30
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me golambaderitik30@gmail.com
