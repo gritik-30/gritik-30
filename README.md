@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gritik-30
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently Jr. Software Engineer and a Computer Science student
 - 📫 How to reach me golambaderitik30@gmail.com
